@@ -1,2 +1,3 @@
-exampledir = $(datarootdir)/examples/@PACKAGE@
-example_DATA = sample1
+files=sample1
+example_DATA=$(files)
+EXTRA_DIST=$(files)
