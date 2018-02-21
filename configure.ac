@@ -13,7 +13,6 @@ AC_PROG_CC
 LT_INIT
 AC_ENABLE_SHARED
 AC_DISABLE_STATIC
-AC_PROG_LIBTOOL(libtool)
 
 # Check for typedefs, structures and compiler characteristics.
 AC_HEADER_STDBOOL
@@ -21,5 +20,5 @@ AC_C_INLINE
 AC_TYPE_SIZE_T
 
 # Output Makefile
-AC_CONFIG_FILES([Makefile src/Makefile doc/Makefile examples/Makefile man/Makefile srcipts/Makefile])
+AC_CONFIG_FILES([Makefile src/Makefile doc/Makefile examples/Makefile man/Makefile scripts/Makefile])
 AC_OUTPUT

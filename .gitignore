@@ -12,6 +12,7 @@
 .libs/
 .settings/
 autom4te.cache/
+m4/*.m4
 .autotools
 .cproject
 .project
@@ -33,3 +34,5 @@ Makefile
 Makefile.in
 missing
 stamp-h1
+config.h.in~
+src/ProjectMAR

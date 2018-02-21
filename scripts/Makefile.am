@@ -1,1 +1,1 @@
-bin_SCRIPTS = script01.sh
+bin_SCRIPTS = DummyScript1.sh
