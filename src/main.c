@@ -2,7 +2,7 @@
 
 int main(void) {
 
-	printf("Proect-MAR, Hello from autotools!\n");
+	printf("Proect-MAR, Hello from autotools\n");
 	return 0;
 
 }
