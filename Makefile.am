@@ -1,2 +1,3 @@
-SUBDIRS = src
-dist_doc_DATA = README
+AUTOMAKE_OPTION = foreign
+ACLOCAL_AMFLAGS = -I m4
+SUBDIRS = src doc examples man scripts
