@@ -16,6 +16,7 @@ m4/*.m4
 .autotools
 .cproject
 .project
+.settings
 aclocal.m4
 compile
 config.guess
